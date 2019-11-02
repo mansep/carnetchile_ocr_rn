@@ -8,9 +8,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "appcenter": "2.4.0",
-    "appcenter-analytics": "2.4.0",
-    "appcenter-crashes": "2.4.0",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-camera": "^3.4.0"
